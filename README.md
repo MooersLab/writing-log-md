@@ -24,11 +24,11 @@ Version 0.3 of the writing log is divided into four sections: project intiation;
 - Prior discussion points
 - Potential titles
 - Potential keywords
-- Protential abstract
+- Potential abstract
 - Abbreviations
-- Potetial collaborators
-- Potetial competitors
-- Potetial reviewers
+- Potential collaborators
+- Potential competitors
+- Potential reviewers
 - Draft cover letter
 
 
