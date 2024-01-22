@@ -7,6 +7,8 @@
 Use this writing log in parallel to the main writing project document to track your progress and record your plans.
 This template can be used in any text editor that supports Markdown.
 [Markdown](https://www.markdownguide.org/) is a simple markup language.
+The files are usually rendered to either PDF or HTML.
+The resulting files are very attractive.
 This `README.md` file is written in the GitHub flavor of markdown.
 
 Compatiable text editors include Visual Studio Code, Vim, NeoVim, Emacs, TextMate, Sublime Text, and so on.
