@@ -3,6 +3,7 @@
 
 # writing-log-md: Writing log template in markdown
 
+## Introduction
 Use this writing log in parallel to the main writing project document to track your progress and record your plans.
 This template can be used in any text editor that supports Markdown.
 [Markdown](https://www.markdownguide.org/) is a simple markup language.
@@ -10,7 +11,20 @@ This template can be used in any text editor that supports Markdown.
 Compatiable text editors include Visual Studio Code, Vim, NeoVim, Emacs, TextMate, Sublime Text, and so on.
 For an informal review and install instructions for 18 leading text editors, visit [here](https://mooerslab.github.io/pymolsnips/#editors).
 
-Version 0.3 of the writing log is divided into four sections: project intiation; daily entries; future additions and tangents; and Guidelines, checklists, protocols, and helpful.
+The writing log is a document that is external to the manuscript.
+It is used to store the plans and progress made on a one manuscript.
+It is tool for enhancing your focus and sustaining forward momentum on the writing project.
+It is also tool that ease re-engagement in an interrupted writing project.
+It is like a master thinking document or second brain for a writing project.
+
+Version 0.3 of the writing log is divided into four sections: 
+
+- project intiation
+- daily entries
+- future additions and tangents
+- Guidelines, checklists, protocols, and helpful tips
+
+The subsections of these four sections are shown below.
 
 ## Project intiation
 
