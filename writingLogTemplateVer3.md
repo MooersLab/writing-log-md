@@ -1,25 +1,26 @@
+![Version](https://img.shields.io/static/v1?label=writingLogTemplateVer3&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Writing log for Project XXXXXX
-
-
 
 # Introduction
 
-This template contains a table of contents, numbered outline, and an
-index that support navigating the document when it has been rendered
+This template contains a table of contents, a numbered outline, and an
+index that supports navigating the document when rendered
 into a PDF. The label and ref macros are part of LaTeX's hyperlinking
-system. Items in the table of contents and in the index are hyperlinked
-to sites in the body of the writing log. When the tex file is being
-viewed on Overleaf, the file outline will appear in the left column. You
-can navigate to different sections of the document by clicking on the
+system. Items in the table of contents and the index are hyperlinked
+to sites in the body of the writing log. When the tex file is 
+viewed on Overleaf, the outline will appear in the left column. You
+can navigate to different document sections by clicking on the
 file outline in this left column.
 
 Version 0.3 is a massive restructuring into four sections for improved clarity and
 simplicity. The comments in the sections below can be commented out with
 a good text editor or by inserting a percent sign at the start of each
-line. Some of the explanatory text some may have value in the future.
-You can always comment out the lines that contain the explanatory text
+line. Some of the explanatory text may have value in the future.
+You can always comment on the lines containing the explanatory text
 by inserting a percent sign at the start of each line. In Overleaf, you
-would can select the block of text and then enter command-/ to comment
+would select the block of text and then enter command-/ to comment
 out the block.
 
 # Project initiation
@@ -47,12 +48,12 @@ you can respond swiftly if the plan A journal rejects the paper.
 
 ## Related projects
 
-By listing projects that are closely and even somewhat distantly related
+By listing closely and somewhat distantly related projects
 to the project at hand, it is possible to identify some synergies that
 might otherwise be overlooked. For example, when working in a new area,
-it is often useful to capitalize on the investment made in reading in
+it is often helpful to capitalize on the investment made in reading in
 the new field by capturing those insights in the form of a review
-article or book chapter. If you use Overleaf, you can include a
+article or book chapter. Using Overleaf, you can include a
 hyperlink to the project's webpage.
 
 -   
@@ -62,12 +63,12 @@ hyperlink to the project's webpage.
 
 ## Draft Introduction
 
-In this section and in the next two sections, we assemble the key
+In this section and the next two sections, we assemble the key
 components of the paper. You may wonder why we did not do this in the
 manuscript document. We find it easier to keep this prose close to the
 other lists in the sections that follow these subsections. In other
 words, we are using the writing log as an incubator for the initial
-drafts of these components of the paper.
+drafts of these paper components.
 
 We craft a two-paragraph introduction following the method of Lindsay
 (Lindsay 2020 Scientific Writing Thinking In Words 2nd Ed). We do this
@@ -83,15 +84,15 @@ results. Yes, we can think about the nature of the results even before
 we have performed the experiments.
 
 We are not necessarily thinking about the expected results, but we can
-guess about the nature of the results with regard to whether they will
-be in the form of a table, a graph or an image. We then do an initial
-sorting of the results on the basis of how much weight they bear upon
+guess the nature of the results with regard to whether they will
+be in the form of a table, a graph, or an image. We then do an initial
+sorting of the results based on how much weight they bear upon
 testing the central hypothesis. This sorting will be the order in which
 the results are presented, in contrast to the general tendency to
 deliver the results in the order in which we obtain the results. At this
 point, we might even draft an initial paragraph for the results section
 that outlines the order of the results. This initial paragraph helps to
-set the reader's expectations about the results that follow. After this
+set the reader's expectations about the following results. After this
 initial paragraph is assembled and the planned results are listed, we
 will transfer this text to the main manuscript.
 
@@ -116,12 +117,12 @@ we will transfer it to the main manuscript.
 
 The discussion section should contain new points of discussion. If you
 are writing a series of papers about a topic, it is all too easy to
-recycle old discussion points. Before making the transfer mentioned
+recycle old discussion points. Before we make the transfer mentioned
 above, we will check the proposed discussion points against those we
 have published to avoid repeating ourselves and remind ourselves to
 review our new results against our prior discussion points. You can
 check this list against the discussion section of your current
-manuscript to ensure that you are raising new points or updating prior
+manuscript to ensure you are raising new points or updating prior
 points while appropriately citing yourself. The new results may require
 that we update our published discussion points.
 
