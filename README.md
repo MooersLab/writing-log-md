@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=writing-log-md&message=0.3&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=writing-log-md&message=0.3.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # writing-log-md: Writing log template in markdown
@@ -117,4 +117,4 @@ The subsections of these four sections are shown below.
 
 |Version      | Changes                                                                                                                                 | Date                 |
 |:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
-| Version 0.2 |   Added badges, funding, and update table.                                                                                               | 2024 August 12      |
+| Version 0.3.1 |   Added badges, funding, and update table.                                                                                               | 2024 August 12      |
